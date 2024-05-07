@@ -36,8 +36,8 @@ document.getElementById("submit").onclick = function () {
         document.getElementById("rayon").value = "";
         document.getElementById("result").textContent = "";
     }, 1000);
+      i+=1
     };
-    i+=1
   }
 };
 
